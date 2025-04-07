@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/your-username/my-app.git'
+                git 'https://github.com/Chiranthan04/allnew.git'
             }
         }
         stage('Build & Test') {
